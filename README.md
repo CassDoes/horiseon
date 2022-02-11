@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Social Solution Service, Inc
 
 ## Purpose
 A website that offers online marketing support for small business'.
@@ -11,7 +11,7 @@ A website that offers online marketing support for small business'.
 https://cassdoes.github.io/urban-octo-telegram/
 
 ##
-CassDoes
+Created by CassDoes
 
 ### ©️2019 Horiseon Social Solution Service, Inc 
 

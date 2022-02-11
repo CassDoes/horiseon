@@ -10,8 +10,8 @@ A website that offers online marketing support for small business'.
 ## Website
 https://cassdoes.github.io/urban-octo-telegram/
 
-##
-Created by CassDoes
+## Contribution
+Made with ❤️ by [cassdoes]
 
 ### ©️2019 Horiseon Social Solution Service, Inc 
 

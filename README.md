@@ -8,7 +8,7 @@ A website that offers online marketing support for small business'.
 * CSS
 
 ## Website
-https://cassdoes.github.io/urban-octo-telegram/
+https://cassdoes.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by [cassdoes]
